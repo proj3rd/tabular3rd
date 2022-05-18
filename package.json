@@ -1,0 +1,30 @@
+{
+  "name": "tabular3rd",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "tsc && node test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proj3rd/tabular3rd.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/proj3rd/tabular3rd/issues"
+  },
+  "homepage": "https://github.com/proj3rd/tabular3rd#readme",
+  "dependencies": {
+    "doc3rd": "proj3rd/doc3rd#v1.0.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.182",
+    "@types/node": "^17.0.21",
+    "typescript": "^4.6.2"
+  }
+}
