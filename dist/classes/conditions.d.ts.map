@@ -1,0 +1,1 @@
+{"version":3,"file":"conditions.d.ts","sourceRoot":"","sources":["../../src/classes/conditions.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,UAAU,CAAC;AAEtC,qBAAa,UAAU;IACd,aAAa,EAAE,UAAU,EAAE,CAAC;gBAEvB,aAAa,EAAE,UAAU,EAAE;IAIhC,GAAG,CAAC,SAAS,EAAE,UAAU;CASjC"}
